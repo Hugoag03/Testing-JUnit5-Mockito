@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea6a8d7b-aac3-48c4-8169-5c1ddfeae30d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/introduccion-pruebas-unitarias/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduccion-pruebas-unitarias/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduccion-pruebas-unitarias/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduccion-pruebas-unitarias/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduccion-pruebas-unitarias/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduccion-pruebas-unitarias/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduccion-pruebas-unitarias/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduccion-pruebas-unitarias/src/main/java/com/ejemplos/pruebas/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduccion-pruebas-unitarias/src/main/java/com/ejemplos/pruebas/ServicioA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduccion-pruebas-unitarias/src/main/java/com/ejemplos/pruebas/ServicioAImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduccion-pruebas-unitarias/src/main/java/com/ejemplos/pruebas/ServicioB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduccion-pruebas-unitarias/src/main/java/com/ejemplos/pruebas/ServicioBImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduccion-pruebas-unitarias/src/test/java/TestServicioA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduccion-pruebas-unitarias/src/test/java/TestServicioB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pruebas-unitarias-spring-boot/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pruebas-unitarias-spring-boot/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pruebas-unitarias-spring-boot/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pruebas-unitarias-spring-boot/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pruebas-unitarias-spring-boot/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pruebas-unitarias-spring-boot/src/main/java/com/pruebas/api/PruebasUnitariasSpringBootApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pruebas-unitarias-spring-boot/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pruebas-unitarias-spring-boot/src/test/java/com/pruebas/api/PruebasUnitariasSpringBootApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ejemplos/pruebas/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ejemplos/pruebas/ServicioA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ejemplos/pruebas/ServicioAImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ejemplos/pruebas/ServicioB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ejemplos/pruebas/ServicioBImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestServicioA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestServicioB.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2h5SawUBYSnpIvIqJCMDQswS0qp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Main.executor": "Run",
+    "JUnit.All in introduccion-pruebas-unitarias.executor": "Run",
+    "JUnit.TestServicioB.testMultiplicar.executor": "Run",
+    "JUnit.TestServicioB.testMultiplicarSumar.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "proyecto-jUnit-mockito",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/REST/Proyecto06/Testing-JUnit5-Mockito/introduccion-pruebas-unitarias",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.52873564"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="com.ejemplos.pruebas" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in introduccion-pruebas-unitarias">
+    <configuration name="All in introduccion-pruebas-unitarias" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="introduccion-pruebas-unitarias" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestServicioB.testMultiplicar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="introduccion-pruebas-unitarias" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestServicioB" />
+      <option name="METHOD_NAME" value="testMultiplicar" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestServicioB.testMultiplicarSumar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="introduccion-pruebas-unitarias" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestServicioB" />
+      <option name="METHOD_NAME" value="testMultiplicarSumar" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestServicioB.testMultiplicarSumar" />
+        <item itemvalue="JUnit.TestServicioB.testMultiplicar" />
+        <item itemvalue="JUnit.All in introduccion-pruebas-unitarias" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea6a8d7b-aac3-48c4-8169-5c1ddfeae30d" name="Changes" comment="" />
+      <created>1716882513619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716882513619</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
